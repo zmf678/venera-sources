@@ -3,888 +3,1036 @@
     "name": "ACG456",
     "fileName": "acg456.js",
     "key": "acg456",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/acg456.js"
   },
   {
     "name": "ACGN漫画",
     "fileName": "acgncc.js",
     "key": "acgncc",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/acgncc.js"
   },
   {
     "name": "爱漫岛",
     "fileName": "aiman.js",
     "key": "aiman",
-    "version": "2.3.6"
+    "version": "2.3.6",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/aiman.js"
   },
   {
     "name": "A漫",
     "fileName": "aman8.js",
     "key": "aman8",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/aman8.js"
   },
   {
     "name": "百合会",
     "fileName": "baihehui.js",
     "key": "baihehui",
-    "version": "1.0.2"
+    "version": "1.0.2",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/baihehui.js"
   },
   {
     "name": "百年漫画",
     "fileName": "bainianmh.js",
     "key": "bainianmh",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/bainianmh.js"
   },
   {
     "name": "香蕉漫画",
     "fileName": "banana.js",
     "key": "banana",
-    "version": "1.0.4"
+    "version": "1.0.4",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/banana.js"
   },
   {
     "name": "包子漫画",
     "fileName": "baozi.js",
     "key": "baozi",
-    "version": "1.2.1"
+    "version": "1.2.1",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/baozi.js"
   },
   {
     "name": "《崩坏3》IP站",
     "fileName": "bh3.js",
     "key": "bh3",
-    "version": "1.0.2"
+    "version": "1.0.2",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/bh3.js"
   },
   {
     "name": "哔哩漫画",
     "fileName": "bilimanga.js",
     "key": "bilimanga",
-    "version": "1.6.2"
+    "version": "1.6.2",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/bilimanga.js"
   },
   {
     "name": "布卡漫画",
     "fileName": "bukamh.js",
     "key": "bukamh",
-    "version": "1.2.9"
+    "version": "1.2.9",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/bukamh.js"
   },
   {
     "name": "CartoonMad",
     "fileName": "cartoonmad.js",
     "key": "cartoonmad",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/cartoonmad.js"
   },
   {
     "name": "CCC追漫台",
     "fileName": "ccc.js",
     "key": "ccc",
-    "version": "1.0.9"
+    "version": "1.0.9",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/ccc.js"
   },
   {
     "name": "吹雪漫画",
     "fileName": "chuixuemh.js",
     "key": "chuixuemh",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/chuixuemh.js"
   },
   {
     "name": "吹妖漫画",
     "fileName": "chuiyao.js",
     "key": "chuiyao",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/chuiyao.js"
   },
   {
     "name": "Colamanga",
     "fileName": "colamanga.js",
     "key": "colamanga",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/colamanga.js"
   },
   {
     "name": "カドコミ",
     "fileName": "comic_walker.js",
     "key": "comic_walker",
-    "version": "1.3.2"
+    "version": "1.3.2",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/comic_walker.js"
   },
   {
     "name": "無限動漫",
     "fileName": "comicabc.js",
     "key": "comicabc",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/comicabc.js"
   },
   {
     "name": "Comic Fury 中文",
     "fileName": "comicfury.js",
     "key": "comicfury",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/comicfury.js"
   },
   {
     "name": "comick",
     "fileName": "comick.js",
     "key": "comick",
-    "version": "1.3.0"
+    "version": "1.3.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/comick.js"
   },
   {
     "name": "拷贝漫画",
     "fileName": "copy_manga.js",
     "key": "copy_manga",
-    "version": "2.3.1"
+    "version": "2.3.1",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/copy_manga.js"
   },
   {
     "name": "拷贝漫画M",
     "fileName": "copy_manga_multi_accounts.js",
     "key": "copy_manga_multi_accounts",
-    "version": "1.4.1"
+    "version": "1.4.1",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/copy_manga_multi_accounts.js"
   },
   {
     "name": "CxC",
     "fileName": "cxc.js",
     "key": "cxc",
-    "version": "1.0.3"
+    "version": "1.0.3",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/cxc.js"
   },
   {
     "name": "次元漫画",
     "fileName": "cycomic.js",
     "key": "cycomic",
-    "version": "1.0.3"
+    "version": "1.0.3",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/cycomic.js"
   },
   {
     "name": "大树漫画",
     "fileName": "dashumanhua.js",
     "key": "dashumanhua",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/dashumanhua.js"
   },
   {
     "name": "丁漫画",
     "fileName": "dingmanhua.js",
     "key": "dingmanhua",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/dingmanhua.js"
   },
   {
     "name": "动漫屋",
     "fileName": "dm5.js",
     "key": "dm5",
-    "version": "7.0.3"
+    "version": "7.0.3",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/dm5.js"
   },
   {
     "name": "动漫之家",
     "fileName": "dmzj.js",
     "key": "dmzj",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/dmzj.js"
   },
   {
     "name": "Dogemanga",
     "fileName": "dogemanga.js",
     "key": "dogemanga",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/dogemanga.js"
   },
   {
     "name": "咚漫",
     "fileName": "dongman.js",
     "key": "dongman",
-    "version": "1.0.8"
+    "version": "1.0.8",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/dongman.js"
   },
   {
     "name": "动漫啦",
     "fileName": "dongman_la.js",
     "key": "dongman_la",
-    "version": "1.0.5"
+    "version": "1.0.5",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/dongman_la.js"
   },
   {
     "name": "读漫屋",
     "fileName": "dumanwuorg.js",
     "key": "dumanwuorg",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/dumanwuorg.js"
   },
   {
     "name": "ehentai",
     "fileName": "ehentai.js",
     "key": "ehentai",
-    "version": "1.2.1"
+    "version": "1.2.1",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/ehentai.js"
   },
   {
     "name": "喜漫漫画",
     "fileName": "favcomic.js",
     "key": "favcomic",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/favcomic.js"
   },
   {
     "name": "飞雪漫画",
     "fileName": "feixuemh.js",
     "key": "feixuemh",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/feixuemh.js"
   },
   {
     "name": "飞翔漫画",
     "fileName": "ffppt.js",
     "key": "ffppt",
-    "version": "1.0.3"
+    "version": "1.0.3",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/ffppt.js"
   },
   {
     "name": "FMH漫画",
     "fileName": "fmh.js",
     "key": "fmh",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/fmh.js"
   },
   {
     "name": "GamerSky",
     "fileName": "gamersky.js",
     "key": "gamersky",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/gamersky.js"
   },
   {
     "name": "古风漫画",
     "fileName": "gfmh.js",
     "key": "gfmh",
-    "version": "1.3.1"
+    "version": "1.3.1",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/gfmh.js"
   },
   {
     "name": "GlobalComix 中文",
     "fileName": "globalcomix.js",
     "key": "globalcomix",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/globalcomix.js"
   },
   {
     "name": "GoDa漫画",
     "fileName": "goda.js",
     "key": "goda",
-    "version": "1.2.4"
+    "version": "1.2.4",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/goda.js"
   },
   {
     "name": "瓜子漫画",
     "fileName": "guazimanhua.js",
     "key": "guazimanhua",
-    "version": "1.0.4"
+    "version": "1.0.4",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/guazimanhua.js"
   },
   {
     "name": "桂露莉漫画",
     "fileName": "guiluoli.js",
     "key": "guiluoli",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/guiluoli.js"
   },
   {
     "name": "国漫网",
     "fileName": "guomanwang.js",
     "key": "guomanwang",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/guomanwang.js"
   },
   {
     "name": "韩话吧",
     "fileName": "hanhuaba.js",
     "key": "hanhuaba",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/hanhuaba.js"
   },
   {
     "name": "好多漫画",
     "fileName": "haoduoman.js",
     "key": "haoduoman",
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/haoduoman.js"
   },
   {
     "name": "好看漫画",
     "fileName": "haokan_txt.js",
     "key": "haokan_txt",
-    "version": "1.0.4"
+    "version": "1.0.4",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/haokan_txt.js"
   },
   {
     "name": "嗨皮漫画",
     "fileName": "happy.js",
     "key": "happy",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/happy.js"
   },
   {
     "name": "H-Comic",
     "fileName": "hcomic.js",
     "key": "hcomic",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/hcomic.js"
   },
   {
     "name": "HHXXEE",
     "fileName": "hhxxee.js",
     "key": "hhxxee",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/hhxxee.js"
   },
   {
     "name": "嬉皮漫畫",
     "fileName": "hipmh.js",
     "key": "hipmh",
-    "version": "1.0.6"
+    "version": "1.0.6",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/hipmh.js"
   },
   {
     "name": "hitomi.la",
     "fileName": "hitomi.js",
     "key": "hitomi",
-    "version": "1.1.2"
+    "version": "1.1.2",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/hitomi.js"
   },
   {
     "name": "热辣漫画",
     "fileName": "hot_manga.js",
     "key": "hot_manga",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/hot_manga.js"
   },
   {
     "name": "爱看漫",
     "fileName": "ikmmh.js",
     "key": "ikmmh",
-    "version": "3.0.1"
+    "version": "3.0.1",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/ikmmh.js"
   },
   {
     "name": "爱飒漫画",
     "fileName": "isamanhua.js",
     "key": "isamanhua",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/isamanhua.js"
   },
   {
     "name": "jcomic.net",
     "fileName": "jcomic.js",
     "key": "jcomic",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/jcomic.js"
   },
   {
     "name": "禁漫天堂",
     "fileName": "jm.js",
     "key": "jm",
-    "version": "1.4.3"
+    "version": "1.4.3",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/jm.js"
   },
   {
     "name": "禁漫天堂X",
     "fileName": "jmx.js",
     "key": "jmx",
-    "version": "2.1.0"
+    "version": "2.1.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/jmx.js"
   },
   {
     "name": "JPM1234",
     "fileName": "jpm1234.js",
     "key": "jpm1234",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/jpm1234.js"
   },
   {
     "name": "看漫画",
     "fileName": "kanman.js",
     "key": "kanman",
-    "version": "2.2.7"
+    "version": "2.2.7",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/kanman.js"
   },
   {
     "name": "Kavita",
     "fileName": "kavita.js",
     "key": "kavita",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/kavita.js"
   },
   {
     "name": "KL漫画",
     "fileName": "klmanga.js",
     "key": "klmanga",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/klmanga.js"
   },
   {
     "name": "Komga",
     "fileName": "komga.js",
     "key": "komga",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/komga.js"
   },
   {
     "name": "Komiic",
     "fileName": "Komiic.js",
     "key": "Komiic",
-    "version": "1.8.3"
+    "version": "1.8.3",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/Komiic.js"
   },
   {
     "name": "快看漫画",
     "fileName": "kuaikanmanhua.js",
     "key": "kuaikanmanhua",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/kuaikanmanhua.js"
   },
   {
     "name": "来漫画（分流）",
     "fileName": "laimanhua_split.js",
     "key": "laimanhua_split",
-    "version": "1.2.2"
+    "version": "1.2.2",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/laimanhua_split.js"
   },
   {
     "name": "Lanraragi",
     "fileName": "lanraragi.js",
     "key": "lanraragi",
-    "version": "1.2.3"
+    "version": "1.2.3",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/lanraragi.js"
   },
   {
     "name": "栗子漫画",
     "fileName": "lizimh.js",
     "key": "lizimh",
-    "version": "1.2.4"
+    "version": "1.2.4",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/lizimh.js"
   },
   {
     "name": "漫本",
     "fileName": "manben.js",
     "key": "manben",
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/manben.js"
   },
   {
     "name": "51漫画",
     "fileName": "manga51.js",
     "key": "manga51",
-    "version": "1.3.0"
+    "version": "1.3.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/manga51.js"
   },
   {
     "name": "MangaDex",
     "fileName": "manga_dex.js",
     "key": "manga_dex",
-    "version": "1.9.4"
+    "version": "1.9.4",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/manga_dex.js"
   },
   {
     "name": "Mangabz",
     "fileName": "mangabz.js",
     "key": "mangabz",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/mangabz.js"
   },
   {
     "name": "MangaRead",
     "fileName": "mangaread.js",
     "key": "mangaread",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/mangaread.js"
   },
   {
     "name": "漫画DB",
     "fileName": "manhuadb.js",
     "key": "manhuadb",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/manhuadb.js"
   },
   {
     "name": "漫画柜",
     "fileName": "manhuagui.js",
     "key": "manhuagui",
-    "version": "1.2.2"
+    "version": "1.2.2",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/manhuagui.js"
   },
   {
     "name": "漫画柜繁体",
     "fileName": "manhuaguitw.js",
     "key": "manhuaguitw",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/manhuaguitw.js"
   },
   {
     "name": "漫画皮",
     "fileName": "manhuapi.js",
     "key": "manhuapi",
-    "version": "1.4.2"
+    "version": "1.4.2",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/manhuapi.js"
   },
   {
     "name": "漫画人",
     "fileName": "manhuaren.js",
     "key": "manhuaren",
-    "version": "2.0.0"
+    "version": "2.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/manhuaren.js"
   },
   {
     "name": "漫画社",
     "fileName": "manhuashe.js",
     "key": "manhuashe",
-    "version": "1.0.2"
+    "version": "1.0.2",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/manhuashe.js"
   },
   {
     "name": "漫画台",
     "fileName": "manhuatai.js",
     "key": "manhuatai",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/manhuatai.js"
   },
   {
     "name": "漫画屋",
     "fileName": "manhuawu.js",
     "key": "manhuawu",
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/manhuawu.js"
   },
   {
     "name": "漫画鱼",
     "fileName": "manhuayu.js",
     "key": "manhuayu",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/manhuayu.js"
   },
   {
     "name": "漫蛙",
     "fileName": "manwa.js",
     "key": "manwa",
-    "version": "1.1.6"
+    "version": "1.1.6",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/manwa.js"
   },
   {
     "name": "漫蛙吧",
     "fileName": "manwaba.js",
     "key": "manwaba",
-    "version": "1.1.3"
+    "version": "1.1.3",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/manwaba.js"
   },
   {
     "name": "漫网",
     "fileName": "manwang.js",
     "key": "manwang",
-    "version": "1.3.4"
+    "version": "1.3.4",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/manwang.js"
   },
   {
     "name": "漫画1234",
     "fileName": "mh1234.js",
     "key": "mh1234",
-    "version": "1.4.3"
+    "version": "1.4.3",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/mh1234.js"
   },
   {
     "name": "漫画160",
     "fileName": "mh160.js",
     "key": "mh160",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/mh160.js"
   },
   {
     "name": "18漫画",
     "fileName": "mh18.js",
     "key": "mh18",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/mh18.js"
   },
   {
     "name": "36漫画",
     "fileName": "mh36.js",
     "key": "mh36",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/mh36.js"
   },
   {
     "name": "360漫画",
     "fileName": "mh360.js",
     "key": "mh360",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/mh360.js"
   },
   {
     "name": "4399漫画网",
     "fileName": "mh4399.js",
     "key": "mh4399",
-    "version": "1.0.5"
+    "version": "1.0.5",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/mh4399.js"
   },
   {
     "name": "522漫画",
     "fileName": "mh522.js",
     "key": "mh522",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/mh522.js"
   },
   {
     "name": "MH57",
     "fileName": "mh57.js",
     "key": "mh57",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/mh57.js"
   },
   {
     "name": "92漫画",
     "fileName": "mh92.js",
     "key": "mh92",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/mh92.js"
   },
   {
     "name": "漫画看",
     "fileName": "mhkan.js",
     "key": "mhkan",
-    "version": "1.1.7"
+    "version": "1.1.7",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/mhkan.js"
   },
   {
     "name": "咪咕动漫",
     "fileName": "migudm.js",
     "key": "migudm",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/migudm.js"
   },
   {
     "name": "米卡插画",
     "fileName": "mikagogo.js",
     "key": "mikagogo",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/mikagogo.js"
   },
   {
     "name": "漫客栈",
     "fileName": "mkzhan.js",
     "key": "mkzhan",
-    "version": "1.1.4"
+    "version": "1.1.4",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/mkzhan.js"
   },
   {
     "name": "MOJOIN",
     "fileName": "mojoin.js",
     "key": "mojoin",
-    "version": "1.0.8"
+    "version": "1.0.8",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/mojoin.js"
   },
   {
     "name": "梦游漫画",
     "fileName": "mumumh.js",
     "key": "mumumh",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/mumumh.js"
   },
   {
     "name": "MX趣",
     "fileName": "mxqf.js",
     "key": "mxqf",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/mxqf.js"
   },
   {
     "name": "漫小肆",
     "fileName": "mxs.js",
     "key": "mxs",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/mxs.js"
   },
   {
     "name": "MYCOMIC",
     "fileName": "mycomic.js",
     "key": "mycomic",
-    "version": "1.1.1"
+    "version": "1.1.1",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/mycomic.js"
   },
   {
     "name": "NamiComi 中文",
     "fileName": "namicomi.js",
     "key": "namicomi",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/namicomi.js"
   },
   {
     "name": "nhentai",
     "fileName": "nhentai.js",
     "key": "nhentai",
-    "version": "1.1.1"
+    "version": "1.1.1",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/nhentai.js"
   },
   {
     "name": "鸟鸟韩漫",
     "fileName": "nnhm.js",
     "key": "nnhm",
-    "version": "1.3.0"
+    "version": "1.3.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/nnhm.js"
   },
   {
     "name": "NoyManga",
     "fileName": "noymanga.js",
     "key": "noymanga",
-    "version": "1.1.5"
+    "version": "1.1.5",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/noymanga.js"
   },
   {
     "name": "极速漫画",
     "fileName": "one_kkk.js",
     "key": "one_kkk",
-    "version": "2.0.0"
+    "version": "2.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/one_kkk.js"
   },
   {
     "name": "Picacg",
     "fileName": "picacg.js",
     "key": "picacg",
-    "version": "1.0.6"
+    "version": "1.0.6",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/picacg.js"
   },
   {
     "name": "Pixiv",
     "fileName": "pixiv.js",
     "key": "pixiv",
-    "version": "1.9.0"
+    "version": "1.9.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/pixiv.js"
   },
   {
     "name": "扑飞漫画",
     "fileName": "pufeimh.js",
     "key": "pufeimh",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/pufeimh.js"
   },
   {
     "name": "奇漫画",
     "fileName": "qimanwu.js",
     "key": "qimanwu",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/qimanwu.js"
   },
   {
     "name": "奇妙漫画",
     "fileName": "qimiaomh.js",
     "key": "qimiaomh",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/qimiaomh.js"
   },
   {
     "name": "腾讯动漫（正版）",
     "fileName": "qq_comic_official.js",
     "key": "qq_comic_official",
-    "version": "2.0.0"
+    "version": "2.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/qq_comic_official.js"
   },
   {
     "name": "Rawkuma",
     "fileName": "rawkuma.js",
     "key": "rawkuma",
-    "version": "1.1.3"
+    "version": "1.1.3",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/rawkuma.js"
   },
   {
     "name": "熱辣漫畫",
     "fileName": "relamanhua.js",
     "key": "relamanhua",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/relamanhua.js"
   },
   {
     "name": "热门漫画",
     "fileName": "remenmanhua.js",
     "key": "remenmanhua",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/remenmanhua.js"
   },
   {
     "name": "Rou韩漫",
     "fileName": "roumh.js",
     "key": "roumh",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/roumh.js"
   },
   {
     "name": "如漫画",
     "fileName": "rumanhua.js",
     "key": "rumanhua",
-    "version": "2.4.1"
+    "version": "2.4.1",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/rumanhua.js"
   },
   {
     "name": "311漫画",
     "fileName": "s311_com.js",
     "key": "s311_com",
-    "version": "1.2.0"
+    "version": "1.2.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/s311_com.js"
   },
   {
     "name": "SF轻小说",
     "fileName": "sfacg.js",
     "key": "sfacg",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/sfacg.js"
   },
   {
     "name": "SF漫画",
     "fileName": "sfacg_manhua.js",
     "key": "sfacg_manhua",
-    "version": "1.0.2"
+    "version": "1.0.2",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/sfacg_manhua.js"
   },
   {
     "name": "少年ジャンプ＋",
     "fileName": "shonen_jump_plus.js",
     "key": "shonen_jump_plus",
-    "version": "1.3.1"
+    "version": "1.3.1",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/shonen_jump_plus.js"
   },
   {
     "name": "思思漫画",
     "fileName": "sisimanhua.js",
     "key": "sisimanhua",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/sisimanhua.js"
   },
   {
     "name": "六漫画",
     "fileName": "sixmh.js",
     "key": "sixmh",
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/sixmh.js"
   },
   {
     "name": "搜动漫",
     "fileName": "soudongman.js",
     "key": "soudongman",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/soudongman.js"
   },
   {
     "name": "サンデーうぇぶり",
     "fileName": "sunday_webry.js",
     "key": "sunday_webry",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/sunday_webry.js"
   },
   {
     "name": "泰拉记事社",
     "fileName": "terrahistoricus.js",
     "key": "terrahistoricus",
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/terrahistoricus.js"
   },
   {
     "name": "Toomics 玩漫（繁中）",
     "fileName": "toomics.js",
     "key": "toomics",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/toomics.js"
   },
   {
     "name": "天天看漫画",
     "fileName": "ttkmh.js",
     "key": "ttkmh",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/ttkmh.js"
   },
   {
     "name": "图库漫画",
     "fileName": "tuku_cc.js",
     "key": "tuku_cc",
-    "version": "1.0.2"
+    "version": "1.0.2",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/tuku_cc.js"
   },
   {
     "name": "有妖气",
     "fileName": "u17.js",
     "key": "u17",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/u17.js"
   },
   {
     "name": "LINE WEBTOON",
     "fileName": "webtoons_zh_hant.js",
     "key": "webtoons_zh_hant",
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/webtoons_zh_hant.js"
   },
   {
     "name": "W漫画",
     "fileName": "wmanhua.js",
     "key": "wmanhua",
-    "version": "1.0.3"
+    "version": "1.0.3",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/wmanhua.js"
   },
   {
     "name": "紳士漫畫",
     "fileName": "wnacg.js",
     "key": "wnacg",
-    "version": "1.0.6"
+    "version": "1.0.6",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/wnacg.js"
   },
   {
     "name": "仙漫网",
     "fileName": "xianman123.js",
     "key": "xianman123",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/xianman123.js"
   },
   {
     "name": "xkcd 中文",
     "fileName": "xkcd.js",
     "key": "xkcd",
-    "version": "1.0.2"
+    "version": "1.0.2",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/xkcd.js"
   },
   {
     "name": "X漫画",
     "fileName": "xmanhua.js",
     "key": "xmanhua",
-    "version": "1.8.1"
+    "version": "1.8.1",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/xmanhua.js"
   },
   {
     "name": "yande.re",
     "fileName": "yandere.js",
     "key": "yandere",
-    "version": "4.9.3"
+    "version": "4.9.3",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/yandere.js"
   },
   {
     "name": "野蛮漫画",
     "fileName": "yemancomic.js",
     "key": "yemancomic",
-    "version": "1.3.8"
+    "version": "1.3.8",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/yemancomic.js"
   },
   {
     "name": "一本漫画",
     "fileName": "yibenmanhua.js",
     "key": "yibenmanhua",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/yibenmanhua.js"
   },
   {
     "name": "优酷漫画",
     "fileName": "ykmh.js",
     "key": "ykmh",
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/ykmh.js"
   },
   {
     "name": "优动漫",
     "fileName": "youdm.js",
     "key": "youdm",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/youdm.js"
   },
   {
     "name": "YY漫画",
     "fileName": "yymanhua.js",
     "key": "yymanhua",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/yymanhua.js"
   },
   {
     "name": "再漫画",
     "fileName": "zaimanhua.js",
     "key": "zaimanhua",
-    "version": "1.2.6"
+    "version": "1.2.6",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/zaimanhua.js"
   },
   {
     "name": "杂志迷",
     "fileName": "zazhimi.js",
     "key": "zazhimi",
-    "version": "1.0.2"
+    "version": "1.0.2",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/zazhimi.js"
   },
   {
     "name": "zero搬运网",
     "fileName": "zerobyw33.js",
     "key": "zerobyw33",
-    "version": "1.2.0"
+    "version": "1.2.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/zerobyw33.js"
   },
   {
     "name": "知音漫客",
     "fileName": "zymk.js",
     "key": "zymk",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/zmf678/venera-sources/main/zymk.js"
   }
 ]
